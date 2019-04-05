@@ -34,6 +34,8 @@ dependencies {
     implementation 'com.google.firebase:firebase-firestore:18.2.0'
     implementation 'com.google.firebase:firebase-auth:16.2.0'
     implementation 'com.google.firebase:firebase-storage:16.1.0'
+    //implementation 'com.google.android.gms:play-services-analytics:16.0.8'
+
 }
 
 //apply plugin: 'com.google.gms.google-services'
